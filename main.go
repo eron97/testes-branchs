@@ -15,15 +15,7 @@ func main() {
 
 	/*
 
-
-		ADD + 300 LINHAS
-
-
-	*/
-
-	/*
-
-		DEV02 ADD + 20 LINHAS
+		DEV02 and DEV03 ADD + 320 LINHAS
 
 	*/
 }
